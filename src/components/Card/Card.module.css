@@ -1,0 +1,27 @@
+.imgContainer {
+    background: #3e4a61;
+    border-radius: 30px;
+    transform: scale(0.8) ;
+    -webkit-transform: scale(0.8) ;
+    -moz-transform: scale(0.8) ;
+    
+  
+
+
+    /* width: 30%;
+    margin: 0 auto;
+    /* /* block-size: 700px;
+    inline-size: 500px; */  
+    color: azure;
+}
+
+/* .imgContainer img {
+    width: 75%;
+    border-radius: 15px;
+}
+
+.imgContainer button {
+    background-color: blanchedalmond;
+    padding: 20px;
+    font-size: large;
+} */
