@@ -1,6 +1,7 @@
 import Style from './Card.module.css';
 
 function Card({id, name, species, gender, image, onClose}) {
+   
    return (
       <div className={Style.imgContainer}>
          <button onClick={onClose}>X</button>
